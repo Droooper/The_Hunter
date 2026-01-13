@@ -633,7 +633,7 @@ main() {
     cd "$OUTPUT_DIR" || { echo "Failed to enter output directory."; exit 1; }
     
     echo "#####################################################"
-    echo "#         THE HUNTER v9.3 - MASTER EDITION          #"
+    echo "#         THE HUNTER v0.5                       #"
     echo "#####################################################"
     echo "Initial targets: $(cat "../$INITIAL_DOMAINS" | tr '\n' ' ')"
     echo "-----------------------------------------------------"
