@@ -5,6 +5,8 @@
 > **Methodology:** "Automate the repetitive to focus on the creative." 
 > The framework handles the heavy lifting of data collection across multiple phases, allowing the pentester to focus on high-level analysis, correlation, and exploitation of findings.
 
+This code was developed as an academic research project (Master's thesis) and for personal use in controlled environments. It is currently undergoing refactoring and polishing. Instability may occur in environments not specifically configured for this purpose.
+
 ## ✨ Key Features
 
 * **Passive & Active Reconnaissance:** Combines `Subfinder`, `Amass`, and `Findomain` for subdomain discovery, with DNS resolution via `dnsx`.
